@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RNG
+comment0.text=\n\ Write\ a\ description\ of\ class\ RNG\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=int\ getMinimumValue()
+comment2.params=minimumValue
+comment2.target=void\ setMinimumValue(int)
+comment3.params=
+comment3.target=int\ getMaximumValue()
+comment4.params=maximumValue
+comment4.target=void\ setMaximumValue(int)
+numComments=5

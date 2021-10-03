@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Buffer
+comment0.text=\ Getter\ setter\ statements\ used\ in\ the\ startgame\ class\ at\ each\ round\ stage.\nBuffer\ class\ with\ two\ variables\ declared\ with\ data\ types
+comment1.params=
+comment1.target=java.util.ArrayList\ getList()
+comment2.params=list
+comment2.target=void\ setList(java.util.ArrayList)
+comment3.params=
+comment3.target=int\ getMaxElements()
+comment4.params=maxElements
+comment4.target=void\ setMaxElements(int)
+comment5.params=
+comment5.target=Buffer()
+comment5.text=Constructor\ for\ initiating\ values
+numComments=6
